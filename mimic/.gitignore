@@ -1,6 +1,7 @@
 # AWS SAM CLI
 .aws-sam/
 samconfig.toml
+layer
 
 # Cloud9 IDE - http://c9.io
 .c9revisions
